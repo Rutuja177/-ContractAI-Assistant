@@ -26,7 +26,7 @@ return (
     <div>
     </div>
         <div className="items-center mt-1 h-full ml-4">
-            <div className="inline-block">
+            <div className="inline-block justify-center">
                 <Document
                     file={sample} // Replace with your PDF file path or URL
                     onLoadSuccess={onDocumentLoadSuccess}

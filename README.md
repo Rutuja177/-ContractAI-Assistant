@@ -7,21 +7,12 @@ https://rutuja177.github.io/ContractAI-Assistant/
 
 An innovative tool designed to streamline the review process of legal documents, the ContractAI Assistant is built to enhance efficiency and accuracy in identifying and suggesting necessary amendments in legal texts.
 
-### Features:
-
-- **Document Upload:** Users can easily upload legal documents into the system for analysis.
-- **Clause Review:** The tool meticulously reviews each clause within the document, identifying non-standard terms, unacceptable clauses, and other areas requiring attention.
-- **Suggested Amendments:** Based on the review, the tool proposes actionable changes to ensure compliance and standardization.
-- **Update Facility:** Users can directly make updates to their documents based on the provided reviews, ensuring their legal documents are up to standard.
-  
-
 
 ### How It Works:
 
-1. **Upload:** Users start by uploading the document to the dashboard.
 2. **Review:** The AI tool scans and reviews the document, identifying areas for improvement.
 3. **Amendments:** The tool displays suggested amendments for each identified issue.
-4. **Update:** Users can make the necessary changes directly through the interface based on the suggestions.
+4. **Update:** Users can select the readline and make the necessary changes directly through the interface based on the suggestions.
 
 
 ### Tools Used:
@@ -31,7 +22,7 @@ An innovative tool designed to streamline the review process of legal documents,
 
 ### Scope:
 
-1. **Create a Dashboard:** Develop an interactive and intuitive dashboard following the high-fidelity wireframing designs to ensure a seamless user experience.
+1. **Create a Dashboard:** Develop an interactive and intuitive dashboard to upload the document following the high-fidelity wireframing designs to ensure a seamless user experience.
 
 
 2. **Feature Development:** Implementing the core functionalities for the toolbar and modal components. Although the user interface is already constructed in React, it requires to enable full functionality. Refer the Figma wireframes to understand the expected behavior and interactive elements that need to be incorporated.
