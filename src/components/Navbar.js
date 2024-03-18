@@ -1,5 +1,5 @@
 import React from 'react';
-import { DocumentTextIcon, CogIcon } from '@heroicons/react/solid'; // Importing icons
+import { DocumentTextIcon} from '@heroicons/react/solid'; // Importing icons
 import aiAssistantImage from '../assets/ai-assistant.png'; // Importing the image
 
 

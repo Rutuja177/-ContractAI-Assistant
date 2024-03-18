@@ -1,5 +1,8 @@
 # ContractAI Assistant
 
+### Figma Wireframing:
+Access the high-fidelity wireframes by visiting the following link: [Figma Wireframes](https://www.figma.com/file/mgh5xlCHpK6Axz3DKpDq0Q/Radiant_AI_tool?type=design&node-id=0%3A1&mode=design&t=peKTIQEzN51Bujid-1) (Link to Figma wireframes)
+
 https://rutuja177.github.io/ContractAI-Assistant/
 
 An innovative tool designed to streamline the review process of legal documents, the ContractAI Assistant is built to enhance efficiency and accuracy in identifying and suggesting necessary amendments in legal texts.
@@ -11,8 +14,7 @@ An innovative tool designed to streamline the review process of legal documents,
 - **Suggested Amendments:** Based on the review, the tool proposes actionable changes to ensure compliance and standardization.
 - **Update Facility:** Users can directly make updates to their documents based on the provided reviews, ensuring their legal documents are up to standard.
   
-### Figma Wireframing:
-Access the high-fidelity wireframes by visiting the following link: [Figma Wireframes](https://www.figma.com/file/mgh5xlCHpK6Axz3DKpDq0Q/Radiant_AI_tool?type=design&node-id=0%3A1&mode=design&t=peKTIQEzN51Bujid-1) (Link to Figma wireframes)
+
 
 ### How It Works:
 

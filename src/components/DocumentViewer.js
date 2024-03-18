@@ -25,7 +25,7 @@ return (
     <Toolbar/>
     <div>
     </div>
-        <div className="items-center mt-1 w-full h-full">
+        <div className="items-center mt-1 h-full ml-4">
             <div className="inline-block">
                 <Document
                     file={sample} // Replace with your PDF file path or URL

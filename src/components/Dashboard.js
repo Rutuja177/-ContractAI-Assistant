@@ -1,6 +1,5 @@
 import React from 'react';
 import SidebarContent from './Sidebar';
-import Toolbar from './Toolbar';
 import Navbar from './Navbar';
 import PDFViewer from './DocumentViewer';
 
