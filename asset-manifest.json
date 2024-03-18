@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ContractAI-Assistant/static/css/main.f4c5e3f0.css",
+    "main.js": "/ContractAI-Assistant/static/js/main.b39d9edc.js",
+    "static/js/453.e2eada60.chunk.js": "/ContractAI-Assistant/static/js/453.e2eada60.chunk.js",
+    "static/media/Lorem_ipsum.pdf": "/ContractAI-Assistant/static/media/Lorem_ipsum.7d71d8af48404dceced4.pdf",
+    "index.html": "/ContractAI-Assistant/index.html",
+    "main.f4c5e3f0.css.map": "/ContractAI-Assistant/static/css/main.f4c5e3f0.css.map",
+    "main.b39d9edc.js.map": "/ContractAI-Assistant/static/js/main.b39d9edc.js.map",
+    "453.e2eada60.chunk.js.map": "/ContractAI-Assistant/static/js/453.e2eada60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4c5e3f0.css",
+    "static/js/main.b39d9edc.js"
+  ]
+}
