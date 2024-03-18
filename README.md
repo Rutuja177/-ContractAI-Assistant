@@ -1,1 +1,1 @@
-# -ContractAI-Assistant
+# ContractAI-Assistant
